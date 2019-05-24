@@ -23,7 +23,8 @@ setup(
     extras_require={
         'clickatell': ['smsframework-clickatell >= 0.0.1'],
         'vianett': ['smsframework-vianett >= 0.0.1'],
-        'receiver': ['flask >= 0.10']
+        'receiver': ['flask >= 0.10'],
+        'africastalking': ['smsframework-africastalking >= 1.0.0']
     },
     tests_require=[
         'nose',

@@ -75,6 +75,7 @@ Supported providers list:
 
 * [Clickatell](https://github.com/kolypto/py-smsframework-clickatell)
 * [Vianett](https://github.com/kolypto/py-smsframework-vianett)
+* [Africa's Talking](https://pypi.org/project/smsframework-africastalking)
 * Expecting more!
 
 Also see the [full list of providers](https://pypi.python.org/pypi?%3Aaction=search&term=smsframework).
